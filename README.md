@@ -17,3 +17,5 @@ for disabled persons. So, we want to made a Voice-Based Email Management System.
 listens to your voice, turns it into text, and sends emails for you. It also reads your emails
 out loud. This system is designed to be super easy for blind people and handicapped
 persons to use, making email accessible to everyone.
+
+Currently working on enhancing system functionalities and optimizing performance for better user experience
