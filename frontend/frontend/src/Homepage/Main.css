@@ -1,0 +1,9 @@
+.main img{
+    background-size: cover;
+    width: 100vw;
+    height: 93vh;
+}
+
+.hovered:hover{
+    background-color: #0065C2;
+}
